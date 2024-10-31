@@ -2,11 +2,11 @@
 Hello, my name is Joseph Britt, and I am a computer science student at the Georgia Institute of Technology. My thread specializations are Intelligence & Media, and I have interests in game development, computer graphics, and robotics. I am currently looking for a summer 2025 internship in the fields of software and game development.
 
 ## Recent Unity Projects
-I am currently working on a game called [Altarune](https://github.com/Carlijavier5/Altarune) as part of my school's video game development club. I have had the opportunity to work on a variety of semester-long projects through Georgia Tech's video game development club, VGDev, and I look forward to working on more as well as leading my own game in the future! I also completed several game dev courses and competed in 3 game jams over the summer of 2024.
+I am currently working on a game called Altarune as part of my school's video game development club. I have had the opportunity to work on a variety of semester-long projects through Georgia Tech's video game development club, VGDev, and I look forward to working on more as well as leading my own game in the future! I also completed several game dev courses and competed in 3 game jams over the summer of 2024.
 | Project | Description | Contributions | Images | Website |
 | --- | --- | --- | --- | --- |
-| Altarune | This is my current project. It follows a not-so-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | --- | link |
-| GrewPrints | A 3D puzzle platformer with an interesting blueprint mechanic to move and resize objects in your environment (GMTK Game Jam 2024). | Developed the blueprint system and implemented the movement/scaling of objects | --- | [Play](https://poyomain.itch.io/grewprints)<br/>test |
+| [Altarune](https://github.com/Carlijavier5/Altarune) | This is my current project. It follows a not-so-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | --- | link |
+| [GrewPrints](https://github.com/PoyoMain/GrewPrints) | A 3D puzzle platformer with an interesting blueprint mechanic to move and resize objects in your environment (GMTK Game Jam 2024). | Developed the blueprint system and implemented the movement/scaling of objects | --- | [Play](https://poyomain.itch.io/grewprints)<br/>test |
 | YumYumScavenge |
 | Interstellar Weedwacker |
 
