@@ -2,7 +2,7 @@
 Hello, my name is Joseph Britt, and I am a computer science student at the Georgia Institute of Technology.
 
 ## What I'm Currently Working On
-I'm currently working on a game called [Altarune](https://github.com/Carlijavier5/Altarune) as part of my school's game development club. I am also looking into a personal project turning a card game made by my friend into a multiplayer Unity game, but alas, that will have to wait until winter break when classes settle down 😅.
+I am currently working on a game called [Altarune](https://github.com/Carlijavier5/Altarune) as part of my school's video game development club. I am looking into a personal project turning a card game made by my friend into a multiplayer Unity game, but alas, that will have to wait until winter break when classes settle down 😅.
 
 ## What I'm Currently Learning
 #### CS 2110 — Computer Organization & Programming
