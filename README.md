@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Introduction
+Hello, my name is Joseph Britt, and I am a computer science student at the Georgia Institute of Technology.
 <!--
 **Joseph-Britt/Joseph-Britt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
