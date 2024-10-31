@@ -5,16 +5,16 @@ Hello, my name is Joseph Britt, and I am a computer science student at the Georg
 I'm currently working on a game called [Altarune](https://github.com/Carlijavier5/Altarune) as part of my school's game development club. I am also looking into a personal project turning a card game made by my friend into a multiplayer Unity game, but alas, that will have to wait until winter break when classes settle down 😅.
 
 ## What I'm Currently Learning
-### Relevant Courses
-#### CS 2110 — Computer Organization & Programming
-I have been learning about how computers work, building from transistors to logic gates to LC-3 assembly language and beyond. We are currently transitioning to C programming!
-#### CS 3630 — Introduction to Perception & Robotics
-I have learned about a multitude of robotics topics including sensor models, decision theory, image processing, multimodal sensing, differential drive kinematics, state estimation (Particle and Kalman Filters), Markov decision processes, and SLAM. Of our remaining topics, I am particularly looking forward to covering visual odometry and PID control.
-#### CS 2050 — Introduction to Discrete Mathematics for Computer Science
-This course has taught me a lot ranging from propositional logic and proof techniques (including some particularly interesting ones such as induction, strong induction, proof by cases, and double set containment) to set theory, number theory, and Big O. I am excited for our upcoming analysis of algorithms and cryptography.
-### Video Game Development
-#### Technical Art
-I have taken in interest in technical art in addition to pure programming and development, and have been enjoying learning about the field and improving my skill set throw my work on VGDev projects.
+  ### Relevant Courses
+  #### CS 2110 — Computer Organization & Programming
+  I have been learning about how computers work, building from transistors to logic gates to LC-3 assembly language and beyond. We are currently transitioning to C programming!
+  #### CS 3630 — Introduction to Perception & Robotics
+  I have learned about a multitude of robotics topics including sensor models, decision theory, image processing, multimodal sensing, differential drive kinematics, state estimation (Particle and Kalman Filters), Markov decision processes, and SLAM. Of our remaining topics, I am particularly looking forward to covering visual odometry and PID control.
+  #### CS 2050 — Introduction to Discrete Mathematics for Computer Science
+  This course has taught me a lot ranging from propositional logic and proof techniques (including some particularly interesting ones such as induction, strong induction, proof by cases, and double set containment) to set theory, number theory, and Big O. I am excited for our upcoming analysis of algorithms and cryptography.
+  ### Video Game Development
+  #### Technical Art
+  I have taken in interest in technical art in addition to pure programming and development, and have been enjoying learning about the field and improving my skill set throw my work on VGDev projects.
 
 ## Interests
 ### Video Games
