@@ -5,7 +5,7 @@ Hello, my name is Joseph Britt, and I am a computer science student at the Georg
 I am currently working on a game called Altarune as part of my school's video game development club. I have had the opportunity to work on a variety of semester-long projects through Georgia Tech's video game development club, VGDev, and I look forward to working on more as well as leading my own game in the future! I also completed several game dev courses and competed in 3 game jams over the summer of 2024.
 | Project & Repo | Description | Contributions | Images | Website |
 | --- | --- | --- | --- | --- |
-| [Altarune](https://github.com/Carlijavier5/Altarune) | This is my current project. It follows a not-so-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | ![Furnace tower screenshot](FurnaceTower.PNG) ![Furance tower render](FurnaceTowerRenderTall.png) | link |
+| [Altarune](https://github.com/Carlijavier5/Altarune) | This is my current project. It follows a not-so-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | ![Furance tower render](FurnaceTowerRenderTall.png) | link |
 | [GrewPrints](https://github.com/PoyoMain/GrewPrints) | A 3D puzzle platformer with an interesting blueprint mechanic to move and resize objects in your environment (GMTK Game Jam 2024). | Blueprint system, moving/scaling objects, level implementation in Unity, level shader for visual clarity | ![GrewPrints moving and scaling box](GrewPrintsBox.gif) ![GrewPrints moving and scaling trampoline](GrewPrintsTrampoline.gif) | [Play](https://poyomain.itch.io/grewprints) |
 | YumYumScavenge |
 | Interstellar Weedwacker |
@@ -15,7 +15,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 | --- | --- | --- | --- | --- |
 | Kitchen Chaos | A game I developed as part of a free 11-hour game development course (summer 2024). | Programming (art assets provided) | | link |
 | Strategy Course | A framework for a strategy game including movement, abilities, enemy AI and pathfinding, and interactive elements in the environment (summer 2024). | Programming (art assets provided) | --- | link |
-| Quantum | A 2D co-op puzzle platformer between two colliding worlds (VGDev - spring 2024). | Quantum lock lightning VFX | --- | link |
+| Quantum | A 2D co-op puzzle platformer between two colliding worlds (VGDev - spring 2024). | Quantum lock lightning VFX, main menu implementation | ![Quantum lock lightning VFX]() | link |
 | Bonbon | A JRPG game set in a sweets-themed world (VGDev - fall 2023). | Kingdom wall 3D model, attack VFX, crystal shader, inventory system sorting method, life steal action | --- | link |
 | Epitaph | A 2D roguelike game following a struggling exorcist (VGDev - fall 2023). | NPC dialogue system | --- | link |
 | Equinox | A 3D puzzle-adventure game set in space (VGDev - fall 2023). | Crate 3D model, space ship concept models | --- | link |
