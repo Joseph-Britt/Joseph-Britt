@@ -15,7 +15,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 | --- | --- | --- | --- | --- |
 | Kitchen Chaos | A game I developed as part of a free 11-hour game development course (summer 2024). | Programming (art assets provided) | | link |
 | Strategy Course | A framework for a strategy game including movement, abilities, enemy AI and pathfinding, and interactive elements in the environment (summer 2024). | Programming (art assets provided) | --- | link |
-| Quantum | A 2D co-op puzzle platformer between two colliding worlds (VGDev - spring 2024). | Quantum lock lightning VFX, main menu implementation | ![Quantum lock lightning VFX](QuantumLockEffect.png) | link |
+| Quantum | A 2D co-op puzzle platformer between two colliding worlds (VGDev - spring 2024). | Quantum lock lightning VFX, main menu implementation | ![Quantum lock lightning VFX](QuantumLockEffect.png)(background art created by others) | link |
 | Bonbon | A JRPG game set in a sweets-themed world (VGDev - fall 2023). | Kingdom wall 3D model, attack VFX, crystal shader, inventory system sorting method, life steal action | --- | link |
 | Epitaph | A 2D roguelike game following a struggling exorcist (VGDev - fall 2023). | NPC dialogue system | --- | link |
 | Equinox | A 3D puzzle-adventure game set in space (VGDev - fall 2023). | Crate 3D model, space ship concept models | --- | link |
