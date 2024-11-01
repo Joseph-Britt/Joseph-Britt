@@ -10,6 +10,11 @@ I am currently working on a game called Altarune as part of my school's video ga
 | [GrewPrints](https://github.com/PoyoMain/GrewPrints) | A 3D puzzle platformer with an interesting blueprint mechanic to move and resize objects in your environment (GMTK Game Jam 2024). | Blueprint system, moving/scaling objects, level implementation in Unity, level shader for visual clarity | ![GrewPrints moving and scaling box](GrewPrintsBox.gif) ![GrewPrints moving and scaling trampoline](GrewPrintsTrampoline.gif) | [Play](https://poyomain.itch.io/grewprints) |
 | [Altarune](https://github.com/Carlijavier5/Altarune) | This is my current project. It follows a not-so-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | ![Furance tower render](FurnaceTowerRenderTall.png) | |
 
+## Other Programming Projects
+| Project & Repo | Description | Contributions/Learning | Images | Website |
+| --- | --- | --- | --- | --- |
+| | | | | |
+
 ## Past Unity Projects
 | Project & Repo | Description | Contributions/Learning | Images | Website |
 | --- | --- | --- | --- | --- |
@@ -20,10 +25,6 @@ I am currently working on a game called Altarune as part of my school's video ga
 | [Equinox](https://github.com/vittorio-corbo/Equinox) | A 3D puzzle-adventure game set in space (VGDev - fall 2023). | Crate 3D model, light strip 3D model, space ship concept models | ![Crate 3D model](EquinoxCrate.png) ![Space ship concept model](ShipTest.png) | [Website](https://www.gtvgdev.com/games-archive/epitaph) |
 | [Epitaph](https://github.com/Joseph-Britt/epitaph) | A 2D roguelike game following a struggling exorcist (VGDev - fall 2023). | NPC dialogue system | | [Website](https://www.gtvgdev.com/games-archive/equinox) |
 | Cube Slider | One of my first solo Unity games. Created following a Brackeys tutorial. | Programming, level design, UI | ![Cube Slider gameplay](CubeSliderGameplay.png) | [Play](https://play.unity.com/en/games/e1894537-a508-4521-a41b-f3d6a530155a/cube-slider) |
-
-## Other Programming Projects
-| Project & Repo | Description | Contributions/Learning | Images | Website |
-| --- | --- | --- | --- | --- |
 
 ## Current Learning
 #### CS 2110 — Computer Organization & Programming
