@@ -3,7 +3,7 @@ Hello, my name is Joseph Britt, and I am a computer science student at the Georg
 
 ## Recent Unity Projects
 I am currently working on a game called Altarune as part of my school's video game development club. I have had the opportunity to work on a variety of semester-long projects through Georgia Tech's video game development club, VGDev, and I look forward to working on more as well as leading my own game in the future! I also completed several game dev courses and competed in 3 game jams over the summer of 2024.
-| Project Name & Repo | Description | Contributions | Images | Website |
+| Project & Repo | Description | Contributions | Images | Website |
 | --- | --- | --- | --- | --- |
 | [Altarune](https://github.com/Carlijavier5/Altarune) | This is my current project. It follows a not-so-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | --- | link |
 | [GrewPrints](https://github.com/PoyoMain/GrewPrints) | A 3D puzzle platformer with an interesting blueprint mechanic to move and resize objects in your environment (GMTK Game Jam 2024). | Blueprint system, moving/scaling objects, level implementation in Unity, level shader for visual clarity | ![GrewPrints moving and scaling box](GrewPrintsBox.gif) ![GrewPrints moving and scaling trampoline](GrewPrintsTrampoline.gif) | [Play](https://poyomain.itch.io/grewprints) |
@@ -11,7 +11,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 | Interstellar Weedwacker |
 
 ## Past Unity Projects
-| Project Name & Repo | Description | Contributions | Images | Website |
+| Project & Repo | Description | Contributions | Images | Website |
 | --- | --- | --- | --- | --- |
 | Kitchen Chaos | A game I developed as part of a free 11-hour game development course (summer 2024). | Programming (art assets provided) | --- | link |
 | Strategy Course | A framework for a strategy game including movement, abilities, enemy AI and pathfinding, and interactive elements in the environment (summer 2024). | Programming (art assets provided) | --- | link |
@@ -21,7 +21,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 | Equinox | A 3D puzzle-adventure game set in space (VGDev - fall 2023). | Crate 3D model, space ship concept models | --- | link |
 
 # Other Past Projects
-| Project Name & Repo | Description | Contributions | Images | Website |
+| Project & Repo | Description | Contributions | Images | Website |
 | --- | --- | --- | --- | --- |
 
 ## Current Learning
