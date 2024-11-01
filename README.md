@@ -3,7 +3,7 @@ Hello, my name is Joseph Britt, and I am a computer science student at the Georg
 
 ## Recent Unity Projects
 I am currently working on a game called Altarune as part of my school's video game development club. I have had the opportunity to work on a variety of semester-long projects through Georgia Tech's video game development club, VGDev, and I look forward to working on more as well as leading my own game in the future! I also completed several game dev courses and competed in 3 game jams over the summer of 2024.
-| Project & Repo | Description | Contributions | Images | Website |
+| Project & Repo | Description | Contributions/Learning | Images | Website |
 | --- | --- | --- | --- | --- |
 | Kitchen Chaos | A game I developed following a free 11-hour game development course over the summer of 2024. | Design patterns and principles, interfaces, scriptable objects, singleton pattern, observer pattern, generics, UI, state machines (art assets provided) | ![Gameplay](KitchenChaos1.png) ![Gameplay](KitchenChaos2.png) ![Delivery success](KitchenChaosDeliverySuccess.png) | [Play](https://josephbritt.itch.io/kitchen-chaos) |
 | Turn-Based Strategy Course | A framework for a strategy game including movement, abilities, enemy AI and pathfinding, and interactive elements in the environment (summer 2024). | Scriptable objects, ragdoll physics, destruction physics, enemy AI using action values, A* pathfinding (art assets provided) | --- | link |
@@ -11,7 +11,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 | [Altarune](https://github.com/Carlijavier5/Altarune) | This is my current project. It follows a not-so-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | ![Furance tower render](FurnaceTowerRenderTall.png) | |
 
 ## Past Unity Projects
-| Project & Repo | Description | Contributions | Images | Website |
+| Project & Repo | Description | Contributions/Learning | Images | Website |
 | --- | --- | --- | --- | --- |
 | [Yum yum, Scavenge!](https://github.com/TheStinker/3HourJamming) | A small game made for a 3-hour game jam about a racoon trying to scavenge enough trash from people's trash cans before the sun goes down (Trijam #279). | NavMesh implementation, enemy AI, main menu | ![Yum yum, Scavenge! gameplay](YumYumScavengeGameplay.png) | [Play](https://stinkweed.itch.io/yum-yum-scavenge) |
 | [Interstellar Weedwacker](https://github.com/gZation/DevDev2024Fun) | An action-adventure game where the player must fight through a plant-infested space ship while collecting items that grant powerful abilities... with a catch. Developed for the DevDev game jam 2024 for the theme "What Could Go Wrong?". Was voted second place game. | Enemy implementation (6 unique enemies, including 2 traps), main menu, sentient trowel ability (orbiting weapon), prefab management + asset integration, collaborated with another programmer on refining and debugging procedural level generation for 3 varying levels using a free level generation asset | ![Cover Image](ISWW_Cover.png) ![Hotbar items](ISWW_Hotbar.png) ![Plant enemies](ISWW_Plants.png) ![Spore cloud enemy](ISWW_Spore.png) (Images are taken from the final game and represent the contributions of the full team; art was done by other team members) | [itch.io](https://stinkweed.itch.io/interstellar-weedwacker) |
@@ -21,8 +21,8 @@ I am currently working on a game called Altarune as part of my school's video ga
 | [Epitaph](https://github.com/Joseph-Britt/epitaph) | A 2D roguelike game following a struggling exorcist (VGDev - fall 2023). | NPC dialogue system | | [Website](https://www.gtvgdev.com/games-archive/equinox) |
 | Cube Slider | One of my first solo Unity games. Created following a Brackeys tutorial. | Programming, level design, UI | ![Cube Slider gameplay](CubeSliderGameplay.png) | [Play](https://play.unity.com/en/games/e1894537-a508-4521-a41b-f3d6a530155a/cube-slider) |
 
-# Other Past Projects
-| Project & Repo | Description | Contributions | Images | Website |
+## Other Programming Projects
+| Project & Repo | Description | Contributions/Learning | Images | Website |
 | --- | --- | --- | --- | --- |
 
 ## Current Learning
