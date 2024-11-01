@@ -18,7 +18,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 | Quantum | A 2D co-op puzzle platformer between two colliding worlds (VGDev - spring 2024). | Quantum lock lightning VFX, main menu implementation | ![Quantum lock lightning VFX](QuantumLockEffect.png)(background art created by others) | link |
 | Bonbon | A JRPG game set in a sweets-themed world (VGDev - fall 2023). | Kingdom wall 3D model, attack impact VFX, crystal shader, inventory system sorting method, life steal action | ![Cake kingdom wall 3D model](CakeKingdomWall.png) ![Impact VFX gif](ImpactVFXTest.gif) ![Crystal shader](CrystalShader.png) | link |
 | Epitaph | A 2D roguelike game following a struggling exorcist (VGDev - fall 2023). | NPC dialogue system | | link |
-| Equinox | A 3D puzzle-adventure game set in space (VGDev - fall 2023). | Crate 3D model, space ship concept models | --- | link |
+| Equinox | A 3D puzzle-adventure game set in space (VGDev - fall 2023). | Crate 3D model, light strip 3D model, space ship concept models | ![Crate 3D model](EquinoxCrate.png) ![Space ship concept model](ShipTest.png) | link |
 | Cube Slider | One of my first solo Unity games. Created following a Brackeys tutorial. | Programming, level design, UI | ![Cube Slider gameplay](CubeSliderGameplay.png) | [Play](https://play.unity.com/en/games/e1894537-a508-4521-a41b-f3d6a530155a/cube-slider) |
 
 # Other Past Projects
