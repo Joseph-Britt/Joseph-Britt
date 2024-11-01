@@ -7,7 +7,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 | --- | --- | --- | --- | --- |
 | [Altarune](https://github.com/Carlijavier5/Altarune) | This is my current project. It follows a not-so-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | ![Furance tower render](FurnaceTowerRenderTall.png) | link |
 | [GrewPrints](https://github.com/PoyoMain/GrewPrints) | A 3D puzzle platformer with an interesting blueprint mechanic to move and resize objects in your environment (GMTK Game Jam 2024). | Blueprint system, moving/scaling objects, level implementation in Unity, level shader for visual clarity | ![GrewPrints moving and scaling box](GrewPrintsBox.gif) ![GrewPrints moving and scaling trampoline](GrewPrintsTrampoline.gif) | [Play](https://poyomain.itch.io/grewprints) |
-| [Yum yum, Scavenge!](https://github.com/TheStinker/3HourJamming) | A small game made for a 3-hour game jam about a racoon trying to scavenge enough trash from people's trash cans before the sun goes down (Trijam #279). | | [Play](https://stinkweed.itch.io/yum-yum-scavenge) |
+| [Yum yum, Scavenge!](https://github.com/TheStinker/3HourJamming) | A small game made for a 3-hour game jam about a racoon trying to scavenge enough trash from people's trash cans before the sun goes down (Trijam #279). | NavMesh implementation, enemy AI, main menu |  | [Play](https://stinkweed.itch.io/yum-yum-scavenge) |
 | [Interstellar Weedwacker](https://github.com/gZation/DevDev2024Fun) |
 
 ## Past Unity Projects
