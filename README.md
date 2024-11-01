@@ -19,6 +19,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 | Bonbon | A JRPG game set in a sweets-themed world (VGDev - fall 2023). | Kingdom wall 3D model, attack impact VFX, crystal shader, inventory system sorting method, life steal action | ![Cake kingdom wall 3D model](CakeKingdomWall.png) ![Impact VFX gif](ImpactVFXTest.gif) ![Crystal shader](CrystalShader.png) | link |
 | Epitaph | A 2D roguelike game following a struggling exorcist (VGDev - fall 2023). | NPC dialogue system | | link |
 | Equinox | A 3D puzzle-adventure game set in space (VGDev - fall 2023). | Crate 3D model, space ship concept models | --- | link |
+| Cube Slider | One of my first solo Unity games. Created following a Brackeys tutorial. | Programming, level design | | [Play](https://play.unity.com/en/games/e1894537-a508-4521-a41b-f3d6a530155a/cube-slider) |
 
 # Other Past Projects
 | Project & Repo | Description | Contributions | Images | Website |
