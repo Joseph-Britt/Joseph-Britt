@@ -6,7 +6,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 | Project | Description | Contributions | Images | Website |
 | --- | --- | --- | --- | --- |
 | [Altarune](https://github.com/Carlijavier5/Altarune) | This is my current project. It follows a not-so-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | --- | link |
-| [GrewPrints](https://github.com/PoyoMain/GrewPrints) | A 3D puzzle platformer with an interesting blueprint mechanic to move and resize objects in your environment (GMTK Game Jam 2024). | Developed the blueprint system and implemented the movement/scaling of objects | --- | [Play](https://poyomain.itch.io/grewprints)<br/>test |
+| [GrewPrints](https://github.com/PoyoMain/GrewPrints) | A 3D puzzle platformer with an interesting blueprint mechanic to move and resize objects in your environment (GMTK Game Jam 2024). | Blueprint system, moving/scaling objects, level implementation in Unity, level shader for visual clarity | --- | [Play](https://poyomain.itch.io/grewprints)<br/>test |
 | YumYumScavenge |
 | Interstellar Weedwacker |
 
