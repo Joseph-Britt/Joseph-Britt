@@ -1,5 +1,5 @@
 ## Introduction
-Hello, my name is Joseph Britt, and I am a computer science student at the Georgia Institute of Technology. My thread specializations are Intelligence & Media, and I have interests in game development, computer graphics, and robotics. I am currently looking for a summer 2025 internship in the fields of software and game development.
+Hello, my name is Joseph Britt, and I am a computer science student at the Georgia Institute of Technology. My thread specializations are Intelligence & Media, and I have interests in game development, computer graphics, and robotics. I am currently looking for a summer 2025 internship in the fields of software development and game development.
 
 ## Recent Programming Projects
 I am currently working on a game called Altarune as part of my school's video game development club. I have had the opportunity to work on a variety of semester-long projects through Georgia Tech's video game development club, VGDev, and I look forward to working on more as well as leading my own game in the future! I also completed several game dev courses and competed in 3 game jams over the summer of 2024.
