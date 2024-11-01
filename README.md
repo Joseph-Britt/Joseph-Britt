@@ -14,7 +14,7 @@ I am currently working on a game called Altarune as part of my school's video ga
 ## Past Unity Projects
 | Project & Repo | Description | Contributions | Images | Website |
 | --- | --- | --- | --- | --- |
-| Strategy Course | A framework for a strategy game including movement, abilities, enemy AI and pathfinding, and interactive elements in the environment (summer 2024). | Programming (art assets provided) | --- | link |
+| Turn-Based Strategy Course | A framework for a strategy game including movement, abilities, enemy AI and pathfinding, and interactive elements in the environment (summer 2024). | Scriptable objects, ragdoll physics, destruction physics, enemy AI using action values, A* pathfinding (art assets provided) | --- | link |
 | [Quantum](https://github.com/Chase-rgb/Quantum) | A 2D co-op puzzle platformer between two colliding worlds (VGDev - spring 2024). | Quantum lock lightning VFX, main menu implementation | ![Quantum lock lightning VFX](QuantumLockEffect.png)(background art created by others) | |
 | [Bonbon](https://github.com/chrysly/project-bonbon) | A JRPG game set in a sweets-themed world (VGDev - fall 2023). | Kingdom wall 3D model, attack impact VFX, crystal shader, inventory system sorting method, life steal action | ![Cake kingdom wall 3D model](CakeKingdomWall.png) ![Impact VFX gif](ImpactVFXTest.gif) ![Crystal shader](CrystalShader.png) | [Website](https://www.gtvgdev.com/games-archive/bonbon) |
 | [Equinox](https://github.com/vittorio-corbo/Equinox) | A 3D puzzle-adventure game set in space (VGDev - fall 2023). | Crate 3D model, light strip 3D model, space ship concept models | ![Crate 3D model](EquinoxCrate.png) ![Space ship concept model](ShipTest.png) | [Website](https://www.gtvgdev.com/games-archive/epitaph) |
