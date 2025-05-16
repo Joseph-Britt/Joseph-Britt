@@ -22,13 +22,11 @@ I recently completed my Junior Design Capstone through Georgia Tech's CREATE-X s
 | [Epitaph](https://github.com/Joseph-Britt/epitaph) | A 2D roguelike game following a struggling exorcist (VGDev - fall 2023). | NPC dialogue system | | [Website](https://www.gtvgdev.com/games-archive/equinox) |
 | Cube Slider | One of my first solo Unity games. Created following a Brackeys tutorial. | Programming, level design, UI | ![Cube Slider gameplay](CubeSliderGameplay.png) | [Play](https://play.unity.com/en/games/e1894537-a508-4521-a41b-f3d6a530155a/cube-slider) |
 
-## Current Learning
-#### CS 2110 — Computer Organization & Programming
-I have been learning about how computers work, building from transistors to logic gates to LC-3 assembly language and beyond. We are currently transitioning to C programming!
-#### CS 3630 — Introduction to Perception & Robotics
-I have learned about a multitude of robotics topics including sensor models, decision theory, image processing, multimodal sensing, differential drive kinematics, state estimation (Particle and Kalman Filters), Markov decision processes, and SLAM. Of our remaining topics, I am particularly looking forward to covering visual odometry and PID control.
-#### CS 2050 — Introduction to Discrete Mathematics for Computer Science
-This course has taught me a lot ranging from propositional logic and proof techniques (including some particularly interesting ones such as induction, strong induction, proof by cases, and double set containment) to set theory, number theory, and Big O. I am excited for our upcoming analysis of algorithms and cryptography.
+## Recent Learning
+#### CS 3451 — Computer Graphics
+#### CS 4731 — CREATE-X Capstone
+#### CS 3510 — Design & Analysis of Algorithms
+I learned about a variety of topics spanning divide & conquer algorithms, graph algorithms, dynamic programming, and complexity theory while completing weekly proof-writing homework assignments. I really enjoyed the process and challenge of algorithm design and found the topics in this course fascinating.
 #### Technical Art
 I have taken in interest in technical art in addition to pure programming and development, and have been enjoying learning about the field and improving my skill set through my work on VGDev projects.
 
