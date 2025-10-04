@@ -1,3 +1,4 @@
+## Recent Programming Projects
 | Project & Repo | Description | Contributions/Learning | Images | Website |
 | --- | --- | --- | --- | --- |
 | [Kitchen Chaos](https://github.com/Joseph-Britt/KitchenChaos) | A game I developed in Unity following a free 11-hour game development course over the summer of 2024. | Design patterns and principles, interfaces, scriptable objects, singleton pattern, observer pattern, generics, UI, state machines (art assets provided) | ![Gameplay](KitchenChaos1.png) ![Gameplay](KitchenChaos2.png) ![Delivery success](KitchenChaosDeliverySuccess.png) | [Play](https://josephbritt.itch.io/kitchen-chaos) |
@@ -6,7 +7,7 @@
 | [GrewPrints](https://github.com/PoyoMain/GrewPrints) | A 3D puzzle platformer with an interesting blueprint mechanic to move and resize objects in your environment (GMTK Game Jam 2024). | Blueprint system, moving/scaling objects, level implementation in Unity, level shader for visual clarity | ![GrewPrints moving and scaling box](GrewPrintsBox.gif) ![GrewPrints moving and scaling trampoline](GrewPrintsTrampoline.gif) | [Play](https://poyomain.itch.io/grewprints) |
 | [Turn-Based Strategy Course](https://github.com/Joseph-Britt/TurnBasedStrategyCourse) | A framework for a strategy game in Unity including movement, abilities, enemy AI and pathfinding, and interactive elements in the environment (summer 2024). | Scriptable objects, ragdoll physics, destruction physics, enemy AI using action values, A* pathfinding (art assets provided) | | |
 
-## Past Prograrmming Projects
+## Past Programming Projects
 | Project & Repo | Description | Contributions/Learning | Images | Website |
 | --- | --- | --- | --- | --- |
 | [Altarune](https://github.com/Carlijavier5/Altarune) | Altarune follows a not-so-magically-talented mage who uses her mechanical engineering degree to construct towers and fend off enemies (VGDev - fall 2024). | Furnace tower 3D model, lightning tower implementation (in progress), lightning tower chain VFX (in progress) | ![Furance tower render](FurnaceTowerRenderTall.png) | |
