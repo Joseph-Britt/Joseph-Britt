@@ -16,7 +16,9 @@
 | [Yum yum, Scavenge!](https://github.com/TheStinker/3HourJamming) | A small game made for a 3-hour game jam about a racoon trying to scavenge enough trash from people's trash cans before the sun goes down (Trijam #279). | NavMesh implementation, enemy AI, main menu | ![Yum yum, Scavenge! gameplay](YumYumScavengeGameplay.png) | [Play](https://stinkweed.itch.io/yum-yum-scavenge) |
 | [Equinox](https://github.com/vittorio-corbo/Equinox) | A 3D puzzle-adventure game set in space (VGDev - fall 2023). | Crate 3D model, light strip 3D model, space ship concept models | ![Crate 3D model](EquinoxCrate.png) ![Space ship concept model](ShipTest.png) | [Website](https://www.gtvgdev.com/games-archive/epitaph) |
 | [Epitaph](https://github.com/Joseph-Britt/epitaph) | A 2D roguelike game following a struggling exorcist (VGDev - fall 2023). | NPC dialogue system | | [Website](https://www.gtvgdev.com/games-archive/equinox) |
+<!--
 | Cube Slider | One of my first solo Unity games. Created following a Brackeys tutorial. | Programming, level design, UI | ![Cube Slider gameplay](CubeSliderGameplay.png) | [Play](https://play.unity.com/en/games/e1894537-a508-4521-a41b-f3d6a530155a/cube-slider) |
+-->
 
 ## Interests
 ### Video Games
